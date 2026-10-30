@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.21.14",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.14/LibreTV-2.21.14.apk",
-  "changelog": "测试自动更新弹窗：打开App自动提示新版本",
-  "size": 0,
+  "latestVersion": "2.21.15",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.15/LibreTV-2.21.15.apk",
+  "changelog": "更新体验升级：下载进度条、百分比、版本大小与下载速度",
+  "size": 32811439,
   "mandatory": false,
-  "publishedAt": "2026-10-31T05:59:58+0800"
+  "publishedAt": "2026-10-31T06:16:51+0800"
 }
