@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.21.16",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.16/LibreTV-2.21.16.apk",
-  "changelog": "测试自动更新：打开App弹窗显示进度条与下载速度",
-  "size": 32811440,
+  "latestVersion": "2.21.17",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.17/LibreTV-2.21.17.apk",
+  "changelog": "修复：直播全屏横屏；返回手势滑动生效+根页面双击退出",
+  "size": 32812152,
   "mandatory": false,
-  "publishedAt": "2026-10-31T06:21:35+0800"
+  "publishedAt": "2026-10-31T06:50:01+0800"
 }
