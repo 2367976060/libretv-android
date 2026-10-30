@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.21.12",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.12/LibreTV-2.21.12.apk",
-  "changelog": "修复应用内更新检测缓存问题，增加双源降级与网络报错提示",
+  "latestVersion": "2.21.13",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.13/LibreTV-2.21.13.apk",
+  "changelog": "新增打开App自动检查更新弹窗",
   "size": 0,
   "mandatory": false,
-  "publishedAt": "2026-10-31T13:30:00+08:00"
+  "publishedAt": "2026-10-31T14:10:00+08:00"
 }
