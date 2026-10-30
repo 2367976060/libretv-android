@@ -1,0 +1,8 @@
+{
+  "latestVersion": "2.21.10",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.10/LibreTV-2.21.10.apk",
+  "changelog": "新增「应用内检查更新」功能：可在关于页直接检测并升级到新版本，无需重新下载安装。",
+  "size": 0,
+  "mandatory": false,
+  "publishedAt": "2026-10-31T05:00:00+08:00"
+}
