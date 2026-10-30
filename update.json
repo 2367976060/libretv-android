@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.21.13",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.13/LibreTV-2.21.13.apk",
-  "changelog": "新增打开App自动检查更新弹窗",
+  "latestVersion": "2.21.14",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.14/LibreTV-2.21.14.apk",
+  "changelog": "测试自动更新弹窗：打开App自动提示新版本",
   "size": 0,
   "mandatory": false,
-  "publishedAt": "2026-10-31T05:56:58+0800"
+  "publishedAt": "2026-10-31T05:59:58+0800"
 }
