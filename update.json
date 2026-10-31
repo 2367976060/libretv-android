@@ -1,13 +1,18 @@
 {
-  "latestVersion": "2.21.22",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.22/LibreTV-2.21.22.apk",
+  "latestVersion": "2.21.23",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.23/LibreTV-2.21.23.apk",
   "apkUrlMirrors": [
-    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.22/LibreTV-2.21.22.apk",
-    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.22/LibreTV-2.21.22.apk",
-    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.22/LibreTV-2.21.22.apk"
+    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.23/LibreTV-2.21.23.apk",
+    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.23/LibreTV-2.21.23.apk",
+    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.23/LibreTV-2.21.23.apk"
   ],
-  "changelog": "1.修复更新下载又变慢：更新包线路改为并行快速探测，自动跳过失效/卡顿线路，优先用响应快的线路做多线程分片下载；2.剔除失效镜像，镜像列表已刷新",
+  "changelog": "1.首页继续观看按剧集去重：同一部剧换源后不再重复出现，只保留最近播放的一条；2.进入播放页自动弹出源列表，识别各源画质（4K/2K/1080P/720P/540P）标注在源名旁，支持画质优先/速度优先排序切换",
   "changelogHistory": [
+    {
+      "version": "2.21.23",
+      "changelog": "1.首页继续观看按剧集去重：同一部剧换源后不再重复出现，只保留最近播放的一条；2.进入播放页自动弹出源列表，识别各源画质（4K/2K/1080P/720P/540P）标注在源名旁，支持画质优先/速度优先排序切换",
+      "date": "2026-10-31"
+    },
     {
       "version": "2.21.22",
       "changelog": "1.修复更新下载又变慢：更新包线路改为并行快速探测，自动跳过失效/卡顿线路，优先用响应快的线路做多线程分片下载；2.剔除失效镜像，镜像列表已刷新",
@@ -94,7 +99,7 @@
       "date": "2026-10-30"
     }
   ],
-  "size": 32878987,
+  "size": 32879437,
   "mandatory": false,
-  "publishedAt": "2026-10-31T14:05:59+08:00"
+  "publishedAt": "2026-10-31T14:19:11+08:00"
 }
