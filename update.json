@@ -1,13 +1,18 @@
 {
-  "latestVersion": "2.21.21",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.21/LibreTV-2.21.21.apk",
+  "latestVersion": "2.21.22",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.22/LibreTV-2.21.22.apk",
   "apkUrlMirrors": [
-    "https://ghproxy.net/https://github.com/2367976060/libretv-android/releases/download/v2.21.21/LibreTV-2.21.21.apk",
-    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.21/LibreTV-2.21.21.apk",
-    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.21/LibreTV-2.21.21.apk"
+    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.22/LibreTV-2.21.22.apk",
+    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.22/LibreTV-2.21.22.apk",
+    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.22/LibreTV-2.21.22.apk"
   ],
-  "changelog": "1.播放器超级分辨率默认开启：自动强制最高画质档位+画质增强锐化，换集换源自动重生效，可在顶部「超清」按钮随时关闭；2.修复低画质源观感，配合画质较好的点播源效果更佳",
+  "changelog": "1.修复更新下载又变慢：更新包线路改为并行快速探测，自动跳过失效/卡顿线路，优先用响应快的线路做多线程分片下载；2.剔除失效镜像，镜像列表已刷新",
   "changelogHistory": [
+    {
+      "version": "2.21.22",
+      "changelog": "1.修复更新下载又变慢：更新包线路改为并行快速探测，自动跳过失效/卡顿线路，优先用响应快的线路做多线程分片下载；2.剔除失效镜像，镜像列表已刷新",
+      "date": "2026-10-31"
+    },
     {
       "version": "2.21.21",
       "changelog": "1.播放器超级分辨率默认开启：自动强制最高画质档位+画质增强锐化，换集换源自动重生效，可在顶部「超清」按钮随时关闭；2.修复低画质源观感，配合画质较好的点播源效果更佳",
@@ -89,7 +94,7 @@
       "date": "2026-10-30"
     }
   ],
-  "size": 32878415,
+  "size": 32878987,
   "mandatory": false,
-  "publishedAt": "2026-10-31T11:19:27+08:00"
+  "publishedAt": "2026-10-31T14:05:59+08:00"
 }
