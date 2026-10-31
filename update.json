@@ -1,20 +1,25 @@
 {
-  "latestVersion": "2.21.27",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.27/LibreTV-2.21.27.apk",
+  "latestVersion": "2.21.28",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.28/LibreTV-2.21.28.apk",
   "apkUrlMirrors": [
-    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.27/LibreTV-2.21.27.apk",
-    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.27/LibreTV-2.21.27.apk",
-    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.27/LibreTV-2.21.27.apk"
+    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.28/LibreTV-2.21.28.apk",
+    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.28/LibreTV-2.21.28.apk",
+    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.28/LibreTV-2.21.28.apk"
   ],
-  "changelog": "手机端和平板端继续观看剧集卡片右上角都增加×删除按钮；平板首页继续观看右栏整体下移与左列推荐剧集卡片持平",
+  "changelog": "删除继续观看增加二次确认（气泡贴删除键旁）；删除完所有记录后保留继续观看区域并显示暂无继续观看内容；平板右栏继续观看上移微调",
   "changelogHistory": [
+    {
+      "version": "2.21.28",
+      "changelog": "删除继续观看增加二次确认（气泡贴删除键旁）；删除完所有记录后保留继续观看区域并显示暂无继续观看内容；平板右栏继续观看上移微调",
+      "date": "2026-10-31"
+    },
     {
       "version": "2.21.27",
       "changelog": "手机端和平板端继续观看剧集卡片右上角都增加×删除按钮；平板首页继续观看右栏整体下移与左列推荐剧集卡片持平",
       "date": "2026-10-31"
     }
   ],
-  "size": 33007322,
+  "size": 33007548,
   "mandatory": false,
-  "publishedAt": "2026-10-31T15:29:23+08:00"
+  "publishedAt": "2026-10-31T15:55:04+08:00"
 }
