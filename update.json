@@ -1,16 +1,18 @@
 {
-  "latestVersion": "2.21.18",
+  "latestVersion": "2.21.19",
   "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.18/LibreTV-2.21.18.apk",
   "apkUrlMirrors": [
     "https://ghproxy.net/https://github.com/2367976060/libretv-android/releases/download/v2.21.18/LibreTV-2.21.18.apk",
     "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.18/LibreTV-2.21.18.apk",
     "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.18/LibreTV-2.21.18.apk"
   ],
-  "changelog": "修复：离线缓存加入失败(补全后端离线下载服务)；应用内更新多线路下载+三源取最新防旧缓存漏检",
-  "size": 32871608,
-  "mandatory": false,
-  "publishedAt": "2026-10-31T07:19:02+0800",
+  "changelog": "1. 离线缓存升级：点击「离线缓存」弹出剧集多选弹窗，可批量缓存，已缓存的剧集再次选择可取消缓存；2. 下载页下载中任务新增「边下看边」按钮，边下载边播放已缓存片段；3. 关于页「检查更新」按钮加宽并改为蓝色，版本号右侧新增「更新日志」，记录每次更新内容",
   "changelogHistory": [
+    {
+      "version": "2.21.19",
+      "changelog": "1. 离线缓存升级：点击「离线缓存」弹出剧集多选弹窗，可批量缓存，已缓存的剧集再次选择可取消缓存；2. 下载页下载中任务新增「边下看边」按钮，边下载边播放已缓存片段；3. 关于页「检查更新」按钮加宽并改为蓝色，版本号右侧新增「更新日志」，记录每次更新内容",
+      "date": "2026-10-31"
+    },
     {
       "version": "2.21.18",
       "changelog": "修复：离线缓存加入失败(补全后端离线下载服务)；应用内更新多线路下载+三源取最新防旧缓存漏检",
@@ -76,5 +78,8 @@
       "changelog": "修复 Tailwind 未编译导致前端样式全失",
       "date": "2026-10-30"
     }
-  ]
+  ],
+  "size": 32873279,
+  "mandatory": false,
+  "publishedAt": "2026-10-31T08:16:46+08:00"
 }
