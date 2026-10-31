@@ -1,13 +1,18 @@
 {
-  "latestVersion": "2.21.19",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.18/LibreTV-2.21.18.apk",
+  "latestVersion": "2.21.20",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.20/LibreTV-2.21.20.apk",
   "apkUrlMirrors": [
-    "https://ghproxy.net/https://github.com/2367976060/libretv-android/releases/download/v2.21.18/LibreTV-2.21.18.apk",
-    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.18/LibreTV-2.21.18.apk",
-    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.18/LibreTV-2.21.18.apk"
+    "https://ghproxy.net/https://github.com/2367976060/libretv-android/releases/download/v2.21.20/LibreTV-2.21.20.apk",
+    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.20/LibreTV-2.21.20.apk",
+    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.20/LibreTV-2.21.20.apk"
   ],
-  "changelog": "1. 离线缓存升级：点击「离线缓存」弹出剧集多选弹窗，可批量缓存，已缓存的剧集再次选择可取消缓存；2. 下载页下载中任务新增「边下看边」按钮，边下载边播放已缓存片段；3. 关于页「检查更新」按钮加宽并改为蓝色，版本号右侧新增「更新日志」，记录每次更新内容",
+  "changelog": "1.更新下载大幅提速：多线程分片并发下载，告别几十KB/s；2.缓存视频显示进度条百分比与实时下载网速；3.边下看边升级为整集进度条（已缓存白色/未缓存灰色），点击未缓存部分可直接联网播放；4.修复：退出软件后未完成缓存不再被误标为完成，App内断点续传；5.设置新增「仅WiFi下载」（默认开启），统一控制更新与离线缓存",
   "changelogHistory": [
+    {
+      "version": "2.21.20",
+      "changelog": "1.更新下载大幅提速：多线程分片并发下载，告别几十KB/s；2.缓存视频显示进度条百分比与实时下载网速；3.边下看边升级为整集进度条（已缓存白色/未缓存灰色），点击未缓存部分可直接联网播放；4.修复：退出软件后未完成缓存不再被误标为完成，App内断点续传；5.设置新增「仅WiFi下载」（默认开启），统一控制更新与离线缓存",
+      "date": "2026-10-31"
+    },
     {
       "version": "2.21.19",
       "changelog": "1. 离线缓存升级：点击「离线缓存」弹出剧集多选弹窗，可批量缓存，已缓存的剧集再次选择可取消缓存；2. 下载页下载中任务新增「边下看边」按钮，边下载边播放已缓存片段；3. 关于页「检查更新」按钮加宽并改为蓝色，版本号右侧新增「更新日志」，记录每次更新内容",
@@ -79,7 +84,7 @@
       "date": "2026-10-30"
     }
   ],
-  "size": 32873279,
+  "size": 32878445,
   "mandatory": false,
-  "publishedAt": "2026-10-31T08:16:46+08:00"
+  "publishedAt": "2026-10-31T08:58:44+08:00"
 }
