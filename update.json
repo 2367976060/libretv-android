@@ -1,13 +1,18 @@
 {
-  "latestVersion": "2.21.23",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.23/LibreTV-2.21.23.apk",
+  "latestVersion": "2.21.24",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.24/LibreTV-2.21.24.apk",
   "apkUrlMirrors": [
-    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.23/LibreTV-2.21.23.apk",
-    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.23/LibreTV-2.21.23.apk",
-    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.23/LibreTV-2.21.23.apk"
+    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.24/LibreTV-2.21.24.apk",
+    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.24/LibreTV-2.21.24.apk",
+    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.24/LibreTV-2.21.24.apk"
   ],
-  "changelog": "1.首页继续观看按剧集去重：同一部剧换源后不再重复出现，只保留最近播放的一条；2.进入播放页自动弹出源列表，识别各源画质（4K/2K/1080P/720P/540P）标注在源名旁，支持画质优先/速度优先排序切换",
+  "changelog": "超清不再发黄（滤镜只加对比度不调色温）；修复全屏时倍速/上/下集按钮点不了；平板剧集列表竖长放大；播放器下方新增快捷源列表（画质标签+延迟点，点一下即切）；平板首页两列布局（左推荐右继续观看）；手机端继续观看改右下角悬浮球（半透明毛玻璃卡片，点击直接续播）",
   "changelogHistory": [
+    {
+      "version": "2.21.24",
+      "changelog": "超清不再发黄（滤镜只加对比度不调色温）；修复全屏时倍速/上/下集按钮点不了；平板剧集列表竖长放大；播放器下方新增快捷源列表（画质标签+延迟点，点一下即切）；平板首页两列布局（左推荐右继续观看）；手机端继续观看改右下角悬浮球（半透明毛玻璃卡片，点击直接续播）",
+      "date": "2026-10-31"
+    },
     {
       "version": "2.21.23",
       "changelog": "1.首页继续观看按剧集去重：同一部剧换源后不再重复出现，只保留最近播放的一条；2.进入播放页自动弹出源列表，识别各源画质（4K/2K/1080P/720P/540P）标注在源名旁，支持画质优先/速度优先排序切换",
@@ -99,7 +104,7 @@
       "date": "2026-10-30"
     }
   ],
-  "size": 32879437,
+  "size": 32881050,
   "mandatory": false,
-  "publishedAt": "2026-10-31T14:19:11+08:00"
+  "publishedAt": "2026-10-31T14:38:22+08:00"
 }
