@@ -1,13 +1,18 @@
 {
-  "latestVersion": "2.21.20",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.20/LibreTV-2.21.20.apk",
+  "latestVersion": "2.21.21",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.21/LibreTV-2.21.21.apk",
   "apkUrlMirrors": [
-    "https://ghproxy.net/https://github.com/2367976060/libretv-android/releases/download/v2.21.20/LibreTV-2.21.20.apk",
-    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.20/LibreTV-2.21.20.apk",
-    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.20/LibreTV-2.21.20.apk"
+    "https://ghproxy.net/https://github.com/2367976060/libretv-android/releases/download/v2.21.21/LibreTV-2.21.21.apk",
+    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.21/LibreTV-2.21.21.apk",
+    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.21/LibreTV-2.21.21.apk"
   ],
-  "changelog": "1.更新下载大幅提速：多线程分片并发下载，告别几十KB/s；2.缓存视频显示进度条百分比与实时下载网速；3.边下看边升级为整集进度条（已缓存白色/未缓存灰色），点击未缓存部分可直接联网播放；4.修复：退出软件后未完成缓存不再被误标为完成，App内断点续传；5.设置新增「仅WiFi下载」（默认开启），统一控制更新与离线缓存",
+  "changelog": "1.播放器超级分辨率默认开启：自动强制最高画质档位+画质增强锐化，换集换源自动重生效，可在顶部「超清」按钮随时关闭；2.修复低画质源观感，配合画质较好的点播源效果更佳",
   "changelogHistory": [
+    {
+      "version": "2.21.21",
+      "changelog": "1.播放器超级分辨率默认开启：自动强制最高画质档位+画质增强锐化，换集换源自动重生效，可在顶部「超清」按钮随时关闭；2.修复低画质源观感，配合画质较好的点播源效果更佳",
+      "date": "2026-10-31"
+    },
     {
       "version": "2.21.20",
       "changelog": "1.更新下载大幅提速：多线程分片并发下载，告别几十KB/s；2.缓存视频显示进度条百分比与实时下载网速；3.边下看边升级为整集进度条（已缓存白色/未缓存灰色），点击未缓存部分可直接联网播放；4.修复：退出软件后未完成缓存不再被误标为完成，App内断点续传；5.设置新增「仅WiFi下载」（默认开启），统一控制更新与离线缓存",
@@ -84,7 +89,7 @@
       "date": "2026-10-30"
     }
   ],
-  "size": 32878445,
+  "size": 32878415,
   "mandatory": false,
-  "publishedAt": "2026-10-31T08:58:44+08:00"
+  "publishedAt": "2026-10-31T11:19:27+08:00"
 }
