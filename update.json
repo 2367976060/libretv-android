@@ -1,20 +1,25 @@
 {
-  "latestVersion": "2.21.30",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.30/LibreTV-2.21.30.apk",
+  "latestVersion": "2.21.31",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.31/LibreTV-2.21.31.apk",
   "apkUrlMirrors": [
-    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.30/LibreTV-2.21.30.apk",
-    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.30/LibreTV-2.21.30.apk",
-    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.30/LibreTV-2.21.30.apk"
+    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.31/LibreTV-2.21.31.apk",
+    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.31/LibreTV-2.21.31.apk",
+    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.31/LibreTV-2.21.31.apk"
   ],
-  "changelog": "修复手机端继续观看删除后重进软件又复活的bug（历史表无title索引导致删除静默失败，现改为按标题批量真实删除，删除成功才更新界面）；平板端推荐剧集一行8个改为5个，卡片增大",
+  "changelog": "界面整体改为优酷Pad版风格（优酷蓝主色、16:9横版大卡标题评分叠加图上、手机端顶部大Banner、推荐与继续观看卡片统一横版）；屏幕方向识别与切换（平板默认横屏、手机默认竖屏，新增横竖屏切换按钮持久记忆，平板可竖屏手机可横屏，兼容主流设备与Android16大屏）；新增本地视频播放（系统文件选择器读取本机视频，支持进度拖动与0.5-2x倍速）",
   "changelogHistory": [
+    {
+      "version": "2.21.31",
+      "changelog": "界面整体改为优酷Pad版风格（优酷蓝主色、16:9横版大卡标题评分叠加图上、手机端顶部大Banner、推荐与继续观看卡片统一横版）；屏幕方向识别与切换（平板默认横屏、手机默认竖屏，新增横竖屏切换按钮持久记忆，平板可竖屏手机可横屏，兼容主流设备与Android16大屏）；新增本地视频播放（系统文件选择器读取本机视频，支持进度拖动与0.5-2x倍速）",
+      "date": "2026-11-04"
+    },
     {
       "version": "2.21.30",
       "changelog": "修复手机端继续观看删除后重进软件又复活的bug（历史表无title索引导致删除静默失败，现改为按标题批量真实删除，删除成功才更新界面）；平板端推荐剧集一行8个改为5个，卡片增大",
       "date": "2026-10-31"
     }
   ],
-  "size": 33007656,
+  "size": 33019034,
   "mandatory": false,
-  "publishedAt": "2026-10-31T16:20:29+08:00"
+  "publishedAt": "2026-11-04T02:58:41+08:00"
 }
