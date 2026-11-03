@@ -1,20 +1,25 @@
 {
-  "latestVersion": "2.21.35",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.35/LibreTV-2.21.35.apk",
+  "latestVersion": "2.21.36",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.36/LibreTV-2.21.36.apk",
   "apkUrlMirrors": [
-    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.35/LibreTV-2.21.35.apk",
-    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.35/LibreTV-2.21.35.apk",
-    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.35/LibreTV-2.21.35.apk"
+    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.36/LibreTV-2.21.36.apk",
+    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.36/LibreTV-2.21.36.apk",
+    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.36/LibreTV-2.21.36.apk"
   ],
-  "changelog": "重修长按加速：全屏长按右半区真实倍速（音视频同步），半透明X×加速中浮字持续显示不挡画面；本地视频全屏自动横屏",
+  "changelog": "长按加速重修：touch监听直接挂video元素+capture，在线与本地播放器一致；本地视频页加全屏按钮（自动横屏）、长按右半区倍速（半透明浮字）、右上角按钮循环切换倍速值",
   "changelogHistory": [
+    {
+      "version": "2.21.36",
+      "changelog": "长按加速重修：touch监听直接挂video元素+capture，在线与本地播放器一致；本地视频页加全屏按钮（自动横屏）、长按右半区倍速（半透明浮字）、右上角按钮循环切换倍速值",
+      "date": "2026-11-04"
+    },
     {
       "version": "2.21.35",
       "changelog": "重修长按加速：全屏长按右半区真实倍速（音视频同步），半透明X×加速中浮字持续显示不挡画面；本地视频全屏自动横屏",
       "date": "2026-11-04"
     }
   ],
-  "size": 55652523,
+  "size": 55653503,
   "mandatory": false,
-  "publishedAt": "2026-11-04T04:39:57+08:00"
+  "publishedAt": "2026-11-04T04:52:34+08:00"
 }
