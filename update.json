@@ -1,20 +1,25 @@
 {
-  "latestVersion": "2.21.34",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.34/LibreTV-2.21.34.apk",
+  "latestVersion": "2.21.35",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.35/LibreTV-2.21.35.apk",
   "apkUrlMirrors": [
-    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.34/LibreTV-2.21.34.apk",
-    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.34/LibreTV-2.21.34.apk",
-    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.34/LibreTV-2.21.34.apk"
+    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.35/LibreTV-2.21.35.apk",
+    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.35/LibreTV-2.21.35.apk",
+    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.35/LibreTV-2.21.35.apk"
   ],
-  "changelog": "修复本地视频播放后无法全屏；全屏时长按右侧区域倍速播放（右上角三点菜单可调2x/2.5x/3x/4x并记忆）；顶部栏改为搜索框+汉堡菜单，全部功能收进抽屉；去除我的页登录模块；榜单类目横向滑动不换行、长按拖拽排序（国产剧第一/国内综艺第二）",
+  "changelog": "重修长按加速：全屏长按右半区真实倍速（音视频同步），半透明X×加速中浮字持续显示不挡画面；本地视频全屏自动横屏",
   "changelogHistory": [
+    {
+      "version": "2.21.35",
+      "changelog": "重修长按加速：全屏长按右半区真实倍速（音视频同步），半透明X×加速中浮字持续显示不挡画面；本地视频全屏自动横屏",
+      "date": "2026-11-04"
+    },
     {
       "version": "2.21.34",
       "changelog": "修复本地视频播放后无法全屏；全屏时长按右侧区域倍速播放（右上角三点菜单可调2x/2.5x/3x/4x并记忆）；顶部栏改为搜索框+汉堡菜单，全部功能收进抽屉；去除我的页登录模块；榜单类目横向滑动不换行、长按拖拽排序（国产剧第一/国内综艺第二）",
       "date": "2026-11-04"
     }
   ],
-  "size": 55652615,
+  "size": 55652523,
   "mandatory": false,
-  "publishedAt": "2026-11-04T04:27:29+08:00"
+  "publishedAt": "2026-11-04T04:39:57+08:00"
 }
