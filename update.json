@@ -1,20 +1,25 @@
 {
-  "latestVersion": "2.21.32",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.32/LibreTV-2.21.32.apk",
+  "latestVersion": "2.21.33",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.33/LibreTV-2.21.33.apk",
   "apkUrlMirrors": [
-    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.32/LibreTV-2.21.32.apk",
-    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.32/LibreTV-2.21.32.apk",
-    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.32/LibreTV-2.21.32.apk"
+    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.33/LibreTV-2.21.33.apk",
+    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.33/LibreTV-2.21.33.apk",
+    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.33/LibreTV-2.21.33.apk"
   ],
-  "changelog": "新增网盘能力（接入开源项目云析 YunX）：顶部「网盘」入口，登录夸克/UC/百度/115/123/139/迅雷/光鸭/蓝奏云等网盘后粘贴分享链接即可在线播放或并发分片提速下载（Range断点续传、直链带Referer/Cookie不再403），同时支持抖音/小红书/快手/微博/AcFun/B站/Pixiv解析；新增本地视频播放（系统文件选择器，支持进度拖动与0.5-2x倍速）；界面改为优酷Pad版风格（优酷蓝主色/16:9横版大卡/手机端顶部Banner）；屏幕方向识别与切换（平板默认横屏、手机默认竖屏，可切换记忆）",
+  "changelog": "布局改为方向感知（不分手机平板，只分横屏/竖屏）：横屏双栏横版大卡，竖屏单栏+底部Tab；竖屏首页高保真优酷风（大Banner、竖版海报横滑推荐带热播角标、网盘解析推广卡）；新增我的页（用户卡+历史记录从首页迁入+我的下载/网盘/本地视频/关于四宫格）；保留云析网盘解析与本地视频播放",
   "changelogHistory": [
+    {
+      "version": "2.21.33",
+      "changelog": "布局改为方向感知（不分手机平板，只分横屏/竖屏）：横屏双栏横版大卡，竖屏单栏+底部Tab；竖屏首页高保真优酷风（大Banner、竖版海报横滑推荐带热播角标、网盘解析推广卡）；新增我的页（用户卡+历史记录从首页迁入+我的下载/网盘/本地视频/关于四宫格）；保留云析网盘解析与本地视频播放",
+      "date": "2026-11-04"
+    },
     {
       "version": "2.21.32",
       "changelog": "新增网盘能力（接入开源项目云析 YunX）：顶部「网盘」入口，登录夸克/UC/百度/115/123/139/迅雷/光鸭/蓝奏云等网盘后粘贴分享链接即可在线播放或并发分片提速下载（Range断点续传、直链带Referer/Cookie不再403），同时支持抖音/小红书/快手/微博/AcFun/B站/Pixiv解析；新增本地视频播放（系统文件选择器，支持进度拖动与0.5-2x倍速）；界面改为优酷Pad版风格（优酷蓝主色/16:9横版大卡/手机端顶部Banner）；屏幕方向识别与切换（平板默认横屏、手机默认竖屏，可切换记忆）",
       "date": "2026-11-04"
     }
   ],
-  "size": 55641644,
+  "size": 55652131,
   "mandatory": false,
-  "publishedAt": "2026-11-04T03:47:16+08:00"
+  "publishedAt": "2026-11-04T04:04:48+08:00"
 }
