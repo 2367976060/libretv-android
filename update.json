@@ -1,20 +1,25 @@
 {
-  "latestVersion": "2.21.36",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.36/LibreTV-2.21.36.apk",
+  "latestVersion": "2.21.37",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.37/LibreTV-2.21.37.apk",
   "apkUrlMirrors": [
-    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.36/LibreTV-2.21.36.apk",
-    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.36/LibreTV-2.21.36.apk",
-    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.36/LibreTV-2.21.36.apk"
+    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.37/LibreTV-2.21.37.apk",
+    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.37/LibreTV-2.21.37.apk",
+    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.37/LibreTV-2.21.37.apk"
   ],
-  "changelog": "长按加速重修：touch监听直接挂video元素+capture，在线与本地播放器一致；本地视频页加全屏按钮（自动横屏）、长按右半区倍速（半透明浮字）、右上角按钮循环切换倍速值",
+  "changelog": "菜单抽屉收窄；长按加速浮字改实底大黑字；本地视频全屏沉浸式隐藏状态栏；本地视频播放进度记忆续播；本地视频一次选择永久可播",
   "changelogHistory": [
+    {
+      "version": "2.21.37",
+      "changelog": "菜单抽屉收窄；长按加速浮字改实底大黑字；本地视频全屏沉浸式隐藏状态栏；本地视频播放进度记忆续播；本地视频一次选择永久可播",
+      "date": "2026-11-04"
+    },
     {
       "version": "2.21.36",
       "changelog": "长按加速重修：touch监听直接挂video元素+capture，在线与本地播放器一致；本地视频页加全屏按钮（自动横屏）、长按右半区倍速（半透明浮字）、右上角按钮循环切换倍速值",
       "date": "2026-11-04"
     }
   ],
-  "size": 55653503,
+  "size": 55654727,
   "mandatory": false,
-  "publishedAt": "2026-11-04T04:52:34+08:00"
+  "publishedAt": "2026-11-04T09:37:21+08:00"
 }
