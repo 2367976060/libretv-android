@@ -6,11 +6,11 @@
     "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.40/LibreTV-2.21.40.apk",
     "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.40/LibreTV-2.21.40.apk"
   ],
-  "changelog": "榜单默认选中顺序后第一个（国产剧周榜）；菜单抽屉收窄240px字号加大15px",
+  "changelog": "修复：榜单默认选中顺序后第一个（国产剧周榜）；菜单抽屉收窄240px字号15px（之前构建失败用了旧包）",
   "changelogHistory": [
     {
       "version": "2.21.40",
-      "changelog": "榜单默认选中顺序后第一个（国产剧周榜）；菜单抽屉收窄240px字号加大15px",
+      "changelog": "修复：榜单默认选中顺序后第一个（国产剧周榜）；菜单抽屉收窄240px字号15px（之前构建失败用了旧包）",
       "date": "2026-11-04"
     },
     {
@@ -129,7 +129,7 @@
       "date": "2026-10-30"
     }
   ],
-  "size": 55654773,
+  "size": 55654733,
   "mandatory": false,
-  "publishedAt": "2026-11-04T14:30:34+08:00"
+  "publishedAt": "2026-11-04T21:42:23+08:00"
 }
