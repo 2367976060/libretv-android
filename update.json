@@ -1,13 +1,18 @@
 {
-  "latestVersion": "2.21.39",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.39/LibreTV-2.21.39.apk",
+  "latestVersion": "2.21.40",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.40/LibreTV-2.21.40.apk",
   "apkUrlMirrors": [
-    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.39/LibreTV-2.21.39.apk",
-    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.39/LibreTV-2.21.39.apk",
-    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.39/LibreTV-2.21.39.apk"
+    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.40/LibreTV-2.21.40.apk",
+    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.40/LibreTV-2.21.40.apk",
+    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.40/LibreTV-2.21.40.apk"
   ],
-  "changelog": "全屏锁定body滚动消除滚动条；全屏进度条收细3px背景变淡；菜单抽屉再压缩；榜单类目横滑修复+拖拽动画",
+  "changelog": "榜单默认选中顺序后第一个（国产剧周榜）；菜单抽屉收窄240px字号加大15px",
   "changelogHistory": [
+    {
+      "version": "2.21.40",
+      "changelog": "榜单默认选中顺序后第一个（国产剧周榜）；菜单抽屉收窄240px字号加大15px",
+      "date": "2026-11-04"
+    },
     {
       "version": "2.21.39",
       "changelog": "全屏锁定body滚动消除滚动条；全屏进度条收细3px背景变淡；菜单抽屉再压缩；榜单类目横滑修复+拖拽动画",
@@ -126,5 +131,5 @@
   ],
   "size": 55654773,
   "mandatory": false,
-  "publishedAt": "2026-11-04T14:05:04+08:00"
+  "publishedAt": "2026-11-04T14:30:34+08:00"
 }
