@@ -1,13 +1,18 @@
 {
-  "latestVersion": "2.21.37",
-  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.37/LibreTV-2.21.37.apk",
+  "latestVersion": "2.21.38",
+  "apkUrl": "https://github.com/2367976060/libretv-android/releases/download/v2.21.38/LibreTV-2.21.38.apk",
   "apkUrlMirrors": [
-    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.37/LibreTV-2.21.37.apk",
-    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.37/LibreTV-2.21.37.apk",
-    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.37/LibreTV-2.21.37.apk"
+    "https://ghproxy.cc/https://github.com/2367976060/libretv-android/releases/download/v2.21.38/LibreTV-2.21.38.apk",
+    "https://gh-proxy.com/https://github.com/2367976060/libretv-android/releases/download/v2.21.38/LibreTV-2.21.38.apk",
+    "https://ghfast.top/https://github.com/2367976060/libretv-android/releases/download/v2.21.38/LibreTV-2.21.38.apk"
   ],
-  "changelog": "菜单抽屉收窄；长按加速浮字改实底大黑字；本地视频全屏沉浸式隐藏状态栏；本地视频播放进度记忆续播；本地视频一次选择永久可播",
+  "changelog": "榜单类目一行横滑+长按拖拽排序（国产剧周榜第一/国内综艺第二）；横屏删除右侧继续观看栏、卡片增大；菜单抽屉紧凑化",
   "changelogHistory": [
+    {
+      "version": "2.21.38",
+      "changelog": "榜单类目一行横滑+长按拖拽排序（国产剧周榜第一/国内综艺第二）；横屏删除右侧继续观看栏、卡片增大；菜单抽屉紧凑化",
+      "date": "2026-11-04"
+    },
     {
       "version": "2.21.37",
       "changelog": "菜单抽屉收窄；长按加速浮字改实底大黑字；本地视频全屏沉浸式隐藏状态栏；本地视频播放进度记忆续播；本地视频一次选择永久可播",
@@ -114,7 +119,7 @@
       "date": "2026-10-30"
     }
   ],
-  "size": 55654727,
+  "size": 55654589,
   "mandatory": false,
-  "publishedAt": "2026-11-04T09:37:21+08:00"
+  "publishedAt": "2026-11-04T11:04:11+08:00"
 }
